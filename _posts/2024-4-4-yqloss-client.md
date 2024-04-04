@@ -1,5 +1,6 @@
 ---
 layout: post
+id: yqlossclient-release
 title: Yqloss Client
 categories: [Yqloss Client, Release]
 ---
