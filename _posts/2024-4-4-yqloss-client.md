@@ -1,6 +1,6 @@
 ---
 layout: post
-id: yqlossclient-release
+permalink: /yqlossclient-release/
 title: Yqloss Client
 categories: [Yqloss Client, Release]
 ---
